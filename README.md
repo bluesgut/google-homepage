@@ -1,4 +1,3 @@
 google-homepage
-===============
 
-from t-o-p
+http://www.theodinproject.com/web-development-101/html-css
